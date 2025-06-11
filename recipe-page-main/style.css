@@ -1,0 +1,159 @@
+
+/* .continer{
+    margin-left: 50px;
+    margin-right: 50px;
+} */
+
+body{
+    background-color: hsl(30, 54%, 90%);
+
+}
+.card_continer{
+    background-color: hsl(330, 100%, 98%);
+    width: 600px;
+    height: 1724px;
+    position: absolute;
+margin-left: 500.5px;
+        border-radius: 50px;
+        margin-top: 70px;
+        margin-bottom: 100px;
+
+}
+
+.continer .imageBooks img{
+    width: 500px;
+    position: relative;
+    left: 40px;
+    top: 10px;
+    border-radius: 20px;
+/* display: flex;
+justify-content: center; */
+}
+
+.continer{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.continer .secondSection h1{
+color: hsl(12, 4%, 27%);
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.continer .thirdsection{
+    background-color:hsl(30, 18%, 87%);
+    border-radius: 10px;
+padding: 7.5px;
+
+}
+.continer .thirdsection h3{
+    padding-left: 20px;
+    padding-right: 20px;
+    
+    color: hsl(332, 51%, 32%);
+        font-family: 'Outfit', sans-serif;
+
+    
+}
+.continer .thirdsection .PreparationList li{
+    color: hsl(30, 10%, 34%);
+    padding-bottom: 10px;
+        font-family: 'Outfit', sans-serif;
+
+}
+.continer .thirdsection .PreparationList li span{
+    font-weight: bold;
+        font-family: 'Outfit', sans-serif;
+             color:  hsl(30, 10%, 34%);
+
+
+    
+}
+p{
+         color:  hsl(30, 10%, 34%);
+                 font-family: 'Outfit', sans-serif;
+
+
+}
+.continer .thirdsection .PreparationList li::marker{
+    color:hsl(332, 51%, 32%);
+;
+}
+
+.continer .fourthsection h2{
+color: hsl(14, 45%, 36%);
+padding: 6px;
+    font-family: 'Outfit', sans-serif;
+
+}
+
+.continer .fourthsection .IngredientsList li::marker{
+    color: hsl(14, 45%, 36%);
+}
+
+.continer .fourthsection .IngredientsList li{
+    padding-bottom: 6px;    font-family: 'Outfit', sans-serif;
+         color:  hsl(30, 10%, 34%);
+
+
+}
+.continer .fivthsection h2{
+    color: hsl(14, 45%, 36%);
+        font-family: 'Outfit', sans-serif;
+
+
+}
+
+.continer .fivthsection .InstructionsList li::marker{
+    color: hsl(14, 45%, 36%);
+    
+}
+
+.continer .fivthsection .InstructionsList li{
+        padding-bottom: 10px;
+            font-family: 'Outfit', sans-serif;
+                 color:  hsl(30, 10%, 34%);
+
+
+
+}
+
+.continer .sixthsection h2{
+color: hsl(14, 45%, 36%);
+padding: 6px;
+font-family: 'Outfit', sans-serif;
+
+
+
+}
+
+.continer .sixthsection p{
+    padding: 6px;
+    font-family: 'Outfit', sans-serif;
+     color:  hsl(30, 10%, 34%);
+
+
+}
+
+
+.TableContiner td {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 30px;
+    padding-top: 30px;
+  font-family: 'Outfit', sans-serif;
+
+}
+
+
+.InstructionsList span{
+    font-weight: bold;
+    color:  hsl(30, 10%, 34%);
+
+}
+
+   
